@@ -1,0 +1,14 @@
+# Wi-Fi secrets and local configuration
+secrets.h
+credentials.h
+.env
+*.local.h
+# Arduino/build/editor outputs
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
